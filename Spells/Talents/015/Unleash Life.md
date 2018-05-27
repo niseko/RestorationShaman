@@ -1,11 +1,11 @@
-# Crusader's Might
+# Unleash Life
 
 [![image](https://user-images.githubusercontent.com/2842471/40581918-c220e7fc-6165-11e8-950f-1db9e179a897.png)](https://beta.wowdb.com/spells/73685-unleash-life)
 
 - Tier 15 talent
 - Heal
 - **Static** cooldown (unaffected by Haste)
-- Instant
+- Instant - GCD
 - Castable in Ghost Wolf
 
 ## About
