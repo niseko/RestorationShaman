@@ -10,7 +10,7 @@
 
 ## About
 
-Can be used to heal an ally. Casting Riptide grants you a stack of [Tidal Waves](./TidalWaves.md), which increases the power of your next [Holy Light](./HolyLight.md) or [Flash of Light](./FlashOfLight.md).
+Can be used to heal an ally. Casting Riptide grants you a stack of [Tidal Waves](./TidalWaves.md), which increases the power of your next [Healing Wave](./HealingWave.md) or [HealingSurge](./HealingSurge.md).
 
 ## Interactions
 
