@@ -11,7 +11,9 @@
 ## About
 
 Increases the healing of the next direct heal, direct heals are:
-- Riptide
-- Healing Wave
-- Healing Surge
-- Chain Heal
+- [Riptide](../../Riptide.md)
+- [Healing Wave](../../HealingWave.md)
+- [Healing Surge](../../HealingSurge.md)
+- [Chain Heal](../../ChainHeal.md)
+
+This bonus increases the initial and all jumps of [Chain Heal](../../ChainHeal.md).
