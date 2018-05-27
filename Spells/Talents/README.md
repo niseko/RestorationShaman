@@ -2,10 +2,10 @@
 
 |||||
 --- | --- | --- | --- |
-|15| [Crusader's Might](./15/CrusadersMight.md) | [Bestow Faith](./15/BestowFaith.md) | [Light's Hammer](./15/LightsHammer.md) |
-|30|[Cavalier](./30/Cavalier.md) | [Unbreakable Spirit](./30/UnbreakableSpirit.md) | [Rule of Law](./30/RuleOfLaw.md) |
-|45|[Fist of Justice](./45/FistOfJustice.md) | [Repentance](./45/Repentance.md) | [Blinding Light](./45/BlindingLight.md) |
-|60|[Devotion Aura](./60/DevotionAura.md) | [Aura of Sacrifice](./60/AuraOfSacrifice.md) | [Aura of Mercy](./60/AuraOfMercy.md) |
-|75|[Judgment of Light](./75/JudgmentOfLight.md) | [Holy Avenger](./75/HolyAvenger.md) | [Holy Prism](./75/HolyPrism.md) |
-|90|[Sanctified Wrath](./90/SanctifiedWrath.md) | [Avenging Crusader](./90/AvengingCrusader.md) | [Awakening](./90/Awakening.md) |
-|100|[Divine Purpose](./90/DivinePurpose.md) | [Beacon of Faith](./90/BeaconOfFaith.md) | [Beacon of Virtue](./90/BeaconOfVirtue.md) |
+|15| [Torrent](./015/Torrent.md) | [Undulation](./015/Undulation.md) | [Unleash Life](./015/UnleashLife.md) |
+|30|[Crashing Waves](./030/Crashing Waves.md) | [Deluge](./030/Deluge.md) | [Earth Shield](./030/Earth Shield.md) |
+|45|[Spirit Wolf](./045/SpiritWolf.md) | [Earthgrab Totem](./045/Earthgrab Totem.md) | [Static Charge](./045/StaticCharge.md) |
+|60|[Ancestral Vigor](./060/AncestralVigor.md) | [Earthen Wall Totem](./060/EarthenWallTotem.md) | [Ancestral Protection Totem](./060/AncestralProtectionTotem.md) |
+|75|[Nature's Guardian](./075/NaturesGuardian.md) | [Graceful Spirit](./075/GracefulSpirit.md) | [Wind Rush Totem](./075/WindRushTotem.md) |
+|90|[Echo of the Elements](./090/EchoOfTheElements.md) | [Downpour](./090/Downpour.md) | [Cloudburst Totem](./090/CloudburstTotem.md) |
+|100|[High Tide](./100/HighTide.md) | [Wellspring](./100/Wellspring.md) | [Ascendance](./100/Ascendance.md) |
